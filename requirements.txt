@@ -1,0 +1,15 @@
+# Claude API client
+anthropic
+
+# Loads API key from .env
+python-dotenv
+
+# Schema validation for structured JSON output
+pydantic
+
+# LLM evaluation framework
+deepeval
+
+# LLM red teaming framework
+deepteam
+

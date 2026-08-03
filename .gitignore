@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# DeepEval cache and telemetry
+.deepeval/
+
+# macOS
+.DS_Store
+
+# Isolated debugging/practice runs — not part of the final project
+1_red_team_assessment.py
+1_test_results_output.txt
+1_workflow_screenshot.png
